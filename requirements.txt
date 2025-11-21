@@ -1,6 +1,5 @@
-# requirements.txt
-streamlit>=1.28.0
-opencv-python-headless>=4.8.0
-numpy>=1.24.0
-pygame>=2.5.0
-Pillow>=10.0.0
+streamlit==1.51.0
+opencv-python-headless==4.12.0.88
+numpy==2.2.6
+pillow==12.0.0
+pygame==2.6.1
