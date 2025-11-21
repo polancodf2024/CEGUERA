@@ -1,5 +1,6 @@
-# requirements.txt
-streamlit>=1.28.0
-opencv-python>=4.8.0
-pygame>=2.5.0
-numpy>=1.24.0
+# requirements.txt - Versión ultra compatible
+streamlit
+opencv-python-headless
+numpy
+pygame
+Pillow
